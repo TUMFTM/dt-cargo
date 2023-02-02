@@ -1,0 +1,14 @@
+name: dt_cargo
+channels:
+  - anaconda
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8.12
+  - pandas=1.3.5
+  - seaborn=0.11.2
+  - pip
+  - pip:
+    - fclist
+    - ipykernel
+    - ipywidgets
