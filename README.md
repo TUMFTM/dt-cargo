@@ -85,7 +85,7 @@ mail: georg.balke@tum.de
 
 ### Versioning
 
-V1.0 
+V1.1 
 
 ### Authors
 
@@ -98,5 +98,5 @@ DT-CARGO is made available under the Open Database License: http://opendatacommo
 A human-readable summary can be found under https://opendatacommons.org/licenses/odbl/summary/. Disclaimer: This is not a license. It is simply a handy reference for understanding the ODbL 1.0 — it is a human-readable expression of some of its key terms. This document has no legal value, and its contents do not appear in the actual license. Read the full ODbL 1.0 license text for the exact terms that apply.
 
 ### Associated Article
-
-Will be added after publication.
+Balke,G. and Adenaw, L. "Heavy commercial vehicles' mobility: Dataset of trucks' anonymized recorded driving and operation (DT-CARGO)"
+https://doi.org/10.1016/j.dib.2023.109246
